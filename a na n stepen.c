@@ -5,7 +5,7 @@ void main()
     printf("Enter random number");
     scanf("%f",&a);
     i=1;
-    printf("Enter random number");
+    printf("Enter random number philips pro max");
     scanf("%d",&n);
     if(n<0)m=-n;
     else m=n;
